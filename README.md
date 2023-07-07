@@ -6,14 +6,17 @@ Yolov8 object detection + deep sort object tracking !
 
 ## requirements
 
-- Python 3.7
+- Python 3.7 (updated python 3.10.11)
 - requirements.txt
 
 ## Deep Sort
 
-We are working on [this fork](https://github.com/computervisiondeveloper/deep_sort) from deep sort official implementation.
-
+We are working on [this fork](https://github.com/computervisiondeveloper/deep_sort) from deep sort official implementation. 
 You can download deep sort feature extraction model [here](https://drive.google.com/open?id=18fKzfqnqhqW3s9zwsCbnVJ5XF2JFeqMp).
+
+
+(update the file is in the repo and the deepsort files is changed for python 3.10)
+
 
 ## data
 
